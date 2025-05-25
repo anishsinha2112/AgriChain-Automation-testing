@@ -40,3 +40,7 @@ def test_longest_substring(browser):
     output = result_page.get_result()
 
     assert output == "3", f"Expected output to be 3 but got {output}"
+
+
+
+    
